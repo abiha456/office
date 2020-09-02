@@ -1,0 +1,122 @@
+/*
+Theme Name: Divi Child
+Text Domain: Divi-child
+Template: Divi
+*/
+.hundred {
+    width: 100%;
+    float: left;
+}
+body h1 {
+    font-size: 60px;
+}
+body h2 {
+    font-size: 30px;
+    padding-top: 10px;
+}
+body p {
+    padding: 0 0 2px;
+}
+p {
+    padding-bottom: 0;
+}
+#et-main-area .et_pb_section {
+    padding: 4% 0;
+}
+.main-title {
+    background-image: linear-gradient(#0000d0, #262626);
+}
+.main-title h1 {
+    color: white;
+    text-align: center;
+}
+.post-content {
+    width: 100%;
+    float: left;
+    background-color: #eee;
+}
+.post-row article {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    margin-bottom: 20px;
+    box-shadow: 0px 10px 30px -10px rgba(0, 0, 0, 0.3);
+    float: left;
+    width: 100%;
+}
+.img-wrap {
+    width: 15%;
+}
+.img-wrap img {
+    width: 100%;
+    float: left;
+    height: 100%;
+}
+.content-wrap {
+    /* width: 55%; */
+    padding: 20px;
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+.btn {
+    padding-top: 10px;
+}
+.rm-btn {
+    padding: 4px 25px;
+    border-radius: 20px;
+    color: white;
+    background-color: #0000d0;
+    max-height: 28px;
+}
+.location-area {
+    width: 50%;
+    float: left;
+}
+.title {
+    font-size: 24px;
+    color: black;
+    display: flex;
+    flex-wrap: wrap;
+    padding-top: 40px;
+    padding-bottom: 5px;
+}
+.et_pb_code_inner .number {
+    padding-bottom: 20px !important;
+}
+.wpcf7-form-control-wrap input, .wpcf7-form-control-wrap textarea {
+    background-color: transparent;
+    border: 2px solid #4a4a4a;
+    border-radius: 6px;
+    padding: 10px;
+    width: 100%;
+    margin: 10px;
+}
+input.wpcf7-form-control.wpcf7-submit {
+    border: none;
+    background-color: #0000d0;
+    padding: 10px 60px;
+    border-radius: 4px;
+    color: white;
+    margin-left: 10px;
+}
+.post-meta {
+    color: white;
+    text-align: center;
+}
+.row {
+    display: flex;
+    flex-wrap: wrap;
+}
+.half-col1 {
+    width: 38%; 
+}
+.half-col1 img {
+    width: 100%;
+}
+.half-col2 {
+    width: 60%;
+    margin-left: 20px;
+    margin-top: 20px;
+}
